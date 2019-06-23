@@ -1,4 +1,4 @@
-#Death By X
+# Death By X
 
 This script is a timer for the Crossfit workout called "Death By X"
 (e.g. Death By Burpees).
@@ -12,7 +12,7 @@ the required reps evenly over the minute. For example in the third
 round the required 3 reps are spaced 20secs apart, in the fourth round
 the required 4 reps are spaced 15 secs apart and so on.
 
-The prinout shows your score should you stop right now.  e.g. The
+The printout shows your score should you stop right now.  e.g. The
 following output means you have COMPLETED 10 rounds and 3 reps (you
 are now in the 11th round).
 ```
