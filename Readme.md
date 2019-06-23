@@ -1,4 +1,4 @@
-# Death By X
+# Death By X WOD Timer
 
 This script is a timer for the Crossfit workout called "Death By X"
 (e.g. Death By Burpees).
